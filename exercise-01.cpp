@@ -111,7 +111,7 @@ void insertLast(List& First, pointer pBaru){
     }
 }
 void traversal(List First){
-    cout<<"\nNo\t"<<"\tNama\t\t"<<"\tBidang/divisi\t"<<"Gaji\t"<<endl;
+    cout<<"\nNo\t"<<"\tNama\t\t\t"<<"Bidang/divisi\t"<<"Gaji\t"<<endl;
     pointer pBantu;
     pBantu=First;
     int i=1;
